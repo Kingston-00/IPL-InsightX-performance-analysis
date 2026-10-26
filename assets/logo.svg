@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 64" width="320" height="64" role="img" aria-label="IPL InsightX">
+  <rect x="2" y="2" width="60" height="60" rx="14" fill="#151c2e" stroke="#3987e5" stroke-width="3"/>
+  <rect x="14" y="34" width="9" height="18" rx="2" fill="#3987e5"/>
+  <rect x="27" y="24" width="9" height="28" rx="2" fill="#3987e5"/>
+  <rect x="40" y="14" width="9" height="38" rx="2" fill="#f2b134"/>
+  <text x="76" y="30" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700" fill="#e8ecf4">IPL <tspan fill="#f2b134">InsightX</tspan></text>
+  <text x="76" y="50" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#9aa6bf">Performance analysis using data analytics</text>
+</svg>

@@ -1,0 +1,11 @@
+# IPL InsightX - versions below are the ones the project was built and tested with (Python 3.12).
+streamlit>=1.50,<2
+pandas>=2.2,<4
+numpy>=2.0,<3
+plotly>=6.0,<8
+matplotlib>=3.9,<4
+seaborn>=0.13,<0.14
+jupyter>=1.1
+ipykernel>=6.29
+nbconvert>=7.16
+pytest>=8.0
